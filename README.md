@@ -3,7 +3,7 @@ A course by Massachusetts Institute of Technology offered on edX platform
 6.00.2x, 2023, Spring  
 
 ### This repo includes:  
-* Finger exercises answers, including solutions to programming exercises
+* Programming exercises solutions
 * Problem sets solutions   
 
 Status: in progress 🕒  
