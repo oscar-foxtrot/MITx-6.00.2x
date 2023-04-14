@@ -27,6 +27,7 @@
 
 # ANSWER: Number of Robots
 
+
 # 3. Which of the following would be the best y-axis label for the graph?
 
 # Time-steps
@@ -37,14 +38,17 @@
 
 # ANSWER: Time-steps
 
+
 #----------------------------------------#
 #----------------------------------------#
+
 
 # Problem 6-2
 # Examine showPlot2 in ps2.py, which takes in the parameters title, x_label, and y_label. 
 # Your job is to examine the code and figure out what the plot produced by the function tells you. 
 # Try calling showPlot2 with appropriate arguments to produce a few plots. 
 # Then, answer the following 3 questions.
+
 
 # 1. Which of the following would be the best title for the graph?
 
@@ -57,6 +61,7 @@
 
 # ANSWER: Time It Takes Two Robots To Clean 80% Of Variously Shaped Rooms
 
+
 # 2. Which of the following would be the best x-axis label for the graph?
 
 # Time-steps
@@ -66,6 +71,7 @@
 # Distance Travelled
 
 # ANSWER: Aspect Ratio
+
 
 # 3. Which of the following would be the best y-axis label for the graph?
 
