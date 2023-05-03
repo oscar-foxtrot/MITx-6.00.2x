@@ -90,7 +90,7 @@ class Patient(object):
         """
         Returns the viruses in this Patient.
         """
-        return self.viruses
+        return self.viruses.copy()
 
 
     def getMaxPop(self):
