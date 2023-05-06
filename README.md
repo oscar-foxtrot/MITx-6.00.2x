@@ -6,4 +6,4 @@ A course by Massachusetts Institute of Technology offered on edX platform
 * Programming exercises solutions
 * Problem sets solutions   
 
-Status: in progress 🕒  
+Status: course completed ✔
